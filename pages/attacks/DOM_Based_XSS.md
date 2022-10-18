@@ -39,7 +39,7 @@ Suppose the following code is used to create a form to let the user
 choose their preferred language. A default language is also provided
 in the query string, as the parameter “default”.
 
-    …
+    
 
     Select your language:
 
@@ -50,7 +50,7 @@ in the query string, as the parameter “default”.
     document.write("<OPTION value=2>English</OPTION>");
 
     </script></select>
-    …
+    
 
 The page is invoked with a URL such as:
 
